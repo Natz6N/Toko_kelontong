@@ -19,8 +19,8 @@ const mainNavItems: NavItem[] = [
         icon: LayoutGrid,
     },
     {
-        title: 'Dashboard',
-        href: '/dashboard',
+        title: 'Products',
+        href: route('products.index'),
         icon: LayoutGrid,
     },
     {
